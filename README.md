@@ -13,13 +13,14 @@ Dentro do Claude Code, digite:
 /plugin install hubbi@hubbi-skills
 ```
 
-## As 6 skills
+## As 7 skills
 
 | Comando | O que faz |
 |---|---|
 | `/comecar` | Roda uma vez, na primeira conversa: entrevista você e monta seu manual (CLAUDE.md), suas pastas, sua memória e o versionamento automático. |
 | `/nova-ideia` | Tira uma ideia do papel: entrevista guiada em rodadas, plano em passos simples, e só executa com seu ok. |
 | `/salvar` | Encerra o dia guardando onde parou. Amanhã é só dizer "bora continuar". |
+| `/limpar` | Conversa ficou longa e pesada? Guarda tudo, esvazia a mesa (/clear) e ensina a retomar com "bora continuar". O Claude também sugere sozinho quando percebe a hora. |
 | `/socorro` | Deu erro? Quebrou? Sumiu? O Claude investiga sozinho, explica em 1 frase e propõe uma saída. Nada se perde. |
 | `/duvida` | Não entendeu um termo ou uma tela? Tradução em 3 camadas: o que é, uma analogia do SEU ramo, e o que fazer agora. |
 | `/identidade` | Cria a identidade visual e o tom de voz da sua marca (empresa, projeto ou pessoal) — e todo material passa a sair com a cara dela. |
