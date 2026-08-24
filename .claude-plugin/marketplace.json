@@ -1,0 +1,17 @@
+{
+  "name": "hubbi-skills",
+  "owner": {
+    "name": "Bruno Palhardi",
+    "url": "https://hubbi.solutions/bruno"
+  },
+  "metadata": {
+    "description": "Skills em português para iniciantes no Claude Code — kit da consultoria do Bruno Palhardi."
+  },
+  "plugins": [
+    {
+      "name": "hubbi",
+      "source": "./",
+      "description": "6 skills em português para iniciantes no Claude Code: /comecar, /nova-ideia, /salvar, /socorro, /duvida e /identidade."
+    }
+  ]
+}
