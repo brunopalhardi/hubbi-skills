@@ -89,6 +89,25 @@ não deixe nenhum placeholder):
   pedir (arquivo do assunto + linha no índice).
 - Quando eu disser "bora continuar", leia "Onde paramos" e retome de lá.
 
+## Conversa longa (regra proativa)
+- Conversa que já tratou de vários assuntos, ou em que você sente que
+  está perdendo detalhes ditos lá atrás, ou barra de status
+  amarela/vermelha → proponha VOCÊ MESMO: "vamos guardar e recomeçar
+  limpo?" e siga a skill /limpar.
+- Nunca espere travar para sugerir.
+
+## Fila de trabalho (uma coisa de cada vez)
+- UM assunto por vez. Antes de começar algo novo, confira o "Onde
+  paramos": se tem coisa pela metade, pergunte se terminamos aquilo
+  primeiro.
+- Em projeto de verdade (pasta em `Projetos/`), trabalhe cada tarefa numa
+  CÓPIA separada (branch do Git — invisível para mim) e só junte no
+  principal quando eu aprovar o resultado.
+- Uma entrega por vez: nunca duas mudanças grandes andando juntas.
+- Se o projeto tiver publicação (deploy — o ato de colocar a versão nova
+  no ar), publique UMA por vez e confira que a anterior terminou antes
+  de começar outra.
+
 ## Versões (o cofre)
 - Tudo em `Projetos/` guarda versões automaticamente (Git por baixo —
   pense num cofre que guarda uma foto de cada etapa do trabalho).
@@ -123,4 +142,5 @@ agora:
 - **"/duvida"** — quando não entender um termo ou uma tela
 - **"/socorro"** — quando algo der errado
 - **"/salvar"** — antes de encerrar o dia
+- **"/limpar"** — quando a conversa ficar pesada: guarda tudo e recomeça limpo
 - **"bora continuar"** — para retomar de onde parou
